@@ -1,3 +1,8 @@
 ---
 site: blogdown:::blogdown_site
 ---
+{{ if ge $value.Date.Unix 0 }}
+  <div class="col-sm-4">
+    {{ .Render "grid" }}
+  </div>
+{{ end }}
