@@ -64,7 +64,8 @@ icons <- awesomeIcons(
 m <- leaflet(jj) %>%
   addTiles() %>%  # Add default OpenStreetMap map tiles
    addAwesomeMarkers(lng=~long, lat=~lat, icon = icons, popup=~popup, label=~nombre) 
-                     
+    
+m                 
                  #    clusterOptions = markerClusterOptions() )
 library(htmlwidgets)
 library(htmltools)
@@ -78,7 +79,7 @@ saveWidget(m, "leafMap.html")
 
 sdfdsafadsfdasfsdafdasfdsa
 
-<iframe seamless src="/static/leaflet/leafMap/index.html" width="100%" height="500"></iframe>
+<iframe seamless src="../leafMap/index.html" width="100%" height="500"></iframe>
 
 
 
