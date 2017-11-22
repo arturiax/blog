@@ -12,9 +12,9 @@ tags: []
 library(ggmap)
 library(leaflet)
 
-addr<-list("Bihotz", "Bar Singular", "Soiz", 
+addr<-list("Bihotz", "Singular", "Soiz 3", 
            "Dartxin", "La catedral de la cerveza",
-           "La Manducateca", "Bar Morrocotuda", "Bar Penguin", "Tegobi")
+           "La Manducateca", "Morrocotuda", "Penguin", "Tegobi")
 
 lugar <-  ", Bilbao, Bizkaia, Spain"
 
