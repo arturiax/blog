@@ -9,8 +9,8 @@ categories:
 tags: []
 ---
 
-#prueba shiny
+#prueba 23 shiny
 
 vamos a probar la aplicacion
 
-<iframe src="http://34.240.188.230/shiny/sample-apps/rmd/" style="border: 1px solid #AAA; width: 290px; height: 420px"></iframe>
+<iframe src="//34.240.188.230/shiny/sample-apps/rmd/" style="border: 1px solid #AAA; width: 290px; height: 420px"></iframe>
