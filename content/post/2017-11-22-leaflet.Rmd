@@ -65,7 +65,7 @@ m <- leaflet(jj) %>%
   addTiles() %>%  # Add default OpenStreetMap map tiles
    addAwesomeMarkers(lng=~long, lat=~lat, icon = icons, popup=~popup, label=~nombre) 
     
-m                 
+              
                  #    clusterOptions = markerClusterOptions() )
 library(htmlwidgets)
 library(htmltools)
