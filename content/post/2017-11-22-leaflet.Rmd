@@ -12,7 +12,7 @@ tags: []
 library(ggmap)
 library(leaflet)
 
-addr<-list("Bihotz", "Singular", "Hiru Soiz", 
+addr<-list("Bihotz", "Singular", "Hiru Soiz bar" , 
            "Dartxin", "La catedral de la cerveza",
            "La Manducateca", "Morrocotuda", "Penguin", "Tegobi")
 
