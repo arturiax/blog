@@ -1,5 +1,5 @@
 ---
-title: prueba shiny
+title: prueba shiny 2
 author: ''
 date: '2017-11-22'
 slug: prueba-shiny
@@ -9,8 +9,8 @@ categories:
 tags: []
 ---
 
-#prueba 23 shiny
+#prueba 2345 shiny
 
 vamos a probar la aplicacion
 
-<iframe src="//34.240.188.230/shiny/sample-apps/rmd/" style="border: 1px solid #AAA; width: 290px; height: 420px"></iframe>
+<iframe src="http://34.240.188.230/shiny/sample-apps/rmd/" style="border: 1px solid #AAA; width: 290px; height: 420px"></iframe>
