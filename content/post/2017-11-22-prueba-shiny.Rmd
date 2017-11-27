@@ -13,4 +13,4 @@ tags: []
 
 vamos a probar la aplicacion
 
-<iframe src="http://34.240.188.230/shiny/sample-apps/rmd/" style="border: 1px solid #AAA; width: 290px; height: 420px"></iframe>
+<iframe src="https://arturiax.win/shiny/sample-apps/rmd/" style="border: 1px solid #AAA; width: 290px; height: 420px"></iframe>
